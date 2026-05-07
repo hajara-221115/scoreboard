@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background: darkorchid;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color:white;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align:center;
+    
+    
+}
+
+.score-card{
+    width: 130px;
+    background: #0a0001;
+    color: #F94F6D;
+    height:110px;
+    font-size:90px;
+    margin: 0px;
+    border-radius: 6px;
+    padding: 5px auto;
+}
+button{
+    margin-top:18px;
+    border: 1px solid #FDF5E6;
+    border-radius: 4px;
+    width: 40px;
+    padding:5px;
+    font-size: 20px;
+    background: none;
+    color: #FDF5E6;
+    
+}
